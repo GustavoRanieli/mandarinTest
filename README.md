@@ -6,10 +6,11 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+![Depfu](https://img.shields.io/depfu/dependencies/github/https%3A%2F%2Fgithub.com%2FGustavoRanieli%2FmandarinTest.git)
+
 
 Esse é um teste para a empresa Madárin <br>
-Uma demo pode ser visualizada em: <br>
+Uma demo pode ser visualizada em: https://mandarin-test-nine.vercel.app<br>
 Seu repositorio no github: https://github.com/GustavoRanieli/mandarinTest/tree/main <br>
 
 Liguagens utilizadas para demonstrar meus conhecimentos: React, TypeScript, Sass, Css, javaScript
