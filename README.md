@@ -8,9 +8,9 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-Esse é um teste para a empresa Madárin
-Uma demo pode ser visualizada em: 
-Seu repositorio no github:
+Esse é um teste para a empresa Madárin <br>
+Uma demo pode ser visualizada em: <br>
+Seu repositorio no github:<br>
 
 Liguagens utilizadas para demonstrar meus conhecimentos: React, TypeScript, Sass, Css, javaScript
 
