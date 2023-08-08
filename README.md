@@ -6,7 +6,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Depfu](https://img.shields.io/depfu/dependencies/github/https%3A%2F%2Fgithub.com%2FGustavoRanieli%2FmandarinTest.git)
+![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/badges/shields)
 
 
 
