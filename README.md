@@ -10,7 +10,7 @@
 
 Esse é um teste para a empresa Madárin <br>
 Uma demo pode ser visualizada em: <br>
-Seu repositorio no github:<br>
+Seu repositorio no github: https://github.com/GustavoRanieli/mandarinTest/tree/main <br>
 
 Liguagens utilizadas para demonstrar meus conhecimentos: React, TypeScript, Sass, Css, javaScript
 
