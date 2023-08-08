@@ -58,17 +58,17 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="https://github.com/GustavoRanieli">
-        <img src="/assets/image/perfil.jpg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+        <img src="/src/assets/img/ProgBr.png" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
         <sub>
-          <b>Gustavo Ranieli Lemes</b>
+          <b>Professor: ProgBr</b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://programadorbr.com">
-        <img src="/assets/image/ProgBr.png" width="100px;" alt="Foto do Steve Jobs"/><br>
+      <a href="https://mandabem.mandarin.com.br">
+        <img src="/src/assets/img/ProgBr.png" width="100px;" alt="Foto do Steve Jobs"/><br>
         <sub>
-          <b>Professor: ProgramadorBr</b>
+          <b>Empresa: Mandárin</b>
         </sub>
       </a>
     </td>
