@@ -1,0 +1,25 @@
+.backgroundFooter {
+  text-align: center;
+  background-color: #fff;
+}
+.backgroundFooter .divAssinatura {
+  background-color: #fc4c02;
+  padding: 2% 0%;
+}
+.backgroundFooter .divAssinatura img {
+  height: auto;
+  width: 40%;
+}
+.backgroundFooter .divCopyright {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  opacity: 0.8;
+  font-size: 2vw;
+  padding: 2% 0%;
+}
+.backgroundFooter .divCopyright span {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=Footer.css.map */

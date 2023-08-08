@@ -1,0 +1,114 @@
+@mixin pogressBar($background){
+    width: 50%;
+    height: 1vw;
+    margin-top: -1%;
+    background: $background;
+}
+
+@mixin hoverClick {
+    transition: all 1s;
+    cursor: pointer;
+    border: 2px solid rgba(228,37,91,1);
+    padding: 2%;
+    border-radius: 10px;
+    margin: 1% 0%;
+}
+
+.background {
+    padding: 2% 5%;
+    background-color: #fff;
+
+    .divFonte{
+        margin-top: 3%;
+    }
+
+    .layerPrincipal:hover{
+            @include hoverClick()
+        }
+    .layerPrincipal{
+        z-index: 2;
+        margin-bottom: 5%;
+        img{
+            width: 100%;
+            height: auto;
+            position: relative;
+            z-index: 2;
+            border: transparent;
+            border-radius: 10px;
+        }
+
+        
+
+        h1{
+            font-size: 3vw;
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 800;
+            line-height: 1vw;
+        }
+
+        p{
+            font-size: 1.8vw;
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 500;
+            opacity: 0.7;
+            line-height: 1.5vw;
+        }
+
+        .fonte{
+            opacity: 0.5;
+            font-style: italic;
+            font-size: 1.4vw;
+        }
+
+        .pogressLayesPrincipal{
+            @include pogressBar($background: linear-gradient(90deg, rgba(228,37,91,1) 0%, rgba(106,91,163,1) 100%))
+        }
+
+    }
+
+    .gridLayers{
+        display: grid;
+        grid-template-columns: 50% 50%;
+
+        .layerWhats{
+            margin-left: 2%;
+        }
+
+        .layerNBA:hover{
+            @include hoverClick()
+        }
+
+        .layerWhats:hover{
+            @include hoverClick()
+        }
+
+        h1{
+            font-size: 2vw;
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 800;
+        }
+
+        p{
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 500;
+            opacity: 0.5;
+            font-style: italic;
+            font-size: 1.4vw;
+        }
+
+        img{
+            height: 30vw;
+            width: 40vw;
+            border: transparent;
+            border-radius: 10px;
+        }
+
+        .pogressNBA{
+            @include pogressBar($background: linear-gradient(90deg, rgba(118,196,207,1) 0%, rgba(103,96,166,1) 100%))
+        }
+
+        .pogressWhats{
+            @include pogressBar($background: linear-gradient(90deg, rgba(116,199,205,1) 0%, rgba(56,179,137,1) 100%))
+        }
+    }
+}

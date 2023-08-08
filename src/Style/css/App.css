@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700;800&display=swap");
+header {
+  background: rgb(238, 116, 92);
+  background: linear-gradient(90deg, rgb(238, 116, 92) 0%, rgb(231, 35, 87) 100%);
+  padding: 2% 5%;
+}
+header .gridHeader {
+  display: grid;
+  grid-template-columns: 35% 35% 30%;
+}
+header .gridHeader .vectorLogo {
+  position: absolute;
+  z-index: 0;
+  height: auto;
+  width: 8%;
+  left: 2.3vw;
+  top: 4vw;
+}
+header .gridHeader .logo {
+  z-index: 1;
+  height: auto;
+  width: 60%;
+  padding-top: 5%;
+}
+header .gridHeader .mulher {
+  position: absolute;
+  right: 30vw;
+  top: 7.6vw;
+  height: auto;
+  width: 12%;
+  z-index: 1;
+}
+header .gridHeader .divVectorArrow .vectorArrowRigth {
+  position: absolute;
+  width: 3%;
+  height: auto;
+  rotate: 180deg;
+}
+header .gridHeader .divVectorArrow .vectorArrowRigth-2 {
+  position: absolute;
+  width: 3%;
+  height: auto;
+  rotate: 180deg;
+  margin-left: 1.5%;
+}
+header .gridHeader .vectorCircles {
+  position: absolute;
+  height: auto;
+  width: 3%;
+  top: 12vw;
+  left: 26vw;
+}
+header .gridHeader .vectorCircles-2 {
+  position: absolute;
+  height: auto;
+  width: 3%;
+  top: 12vw;
+  left: 26vw;
+  margin-left: 1.8%;
+}
+header .gridHeader .divParagraph {
+  color: #fff;
+  font-size: 1.5vw;
+  text-align: end;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  line-height: 20%;
+}
+header .gridHeader .divParagraph .vectorTriangulo {
+  position: absolute;
+  width: 2%;
+  height: auto;
+  rotate: 95deg;
+  top: 3.2vw;
+  right: 6.2vw;
+}
+header .gridHeader .divParagraph .p {
+  font-size: 1vw;
+  padding-top: 5%;
+}
+header .gridHeader .divParagraph .vectorWaveLine {
+  height: auto;
+  width: 6%;
+  position: absolute;
+  right: 7.2vw;
+  top: 11.2vw;
+}
+
+/*# sourceMappingURL=App.css.map */

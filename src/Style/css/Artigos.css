@@ -1,0 +1,106 @@
+.background {
+  padding: 2% 5%;
+  background-color: #fff;
+}
+.background .divFonte {
+  margin-top: 3%;
+}
+.background .layerPrincipal:hover {
+  transition: all 1s;
+  cursor: pointer;
+  border: 2px solid rgb(228, 37, 91);
+  padding: 2%;
+  border-radius: 10px;
+  margin: 1% 0%;
+}
+.background .layerPrincipal {
+  z-index: 2;
+  margin-bottom: 5%;
+}
+.background .layerPrincipal img {
+  width: 100%;
+  height: auto;
+  position: relative;
+  z-index: 2;
+  border: transparent;
+  border-radius: 10px;
+}
+.background .layerPrincipal h1 {
+  font-size: 3vw;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  line-height: 1vw;
+}
+.background .layerPrincipal p {
+  font-size: 1.8vw;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  opacity: 0.7;
+  line-height: 1.5vw;
+}
+.background .layerPrincipal .fonte {
+  opacity: 0.5;
+  font-style: italic;
+  font-size: 1.4vw;
+}
+.background .layerPrincipal .pogressLayesPrincipal {
+  width: 50%;
+  height: 1vw;
+  margin-top: -1%;
+  background: linear-gradient(90deg, rgb(228, 37, 91) 0%, rgb(106, 91, 163) 100%);
+}
+.background .gridLayers {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+.background .gridLayers .layerWhats {
+  margin-left: 2%;
+}
+.background .gridLayers .layerNBA:hover {
+  transition: all 1s;
+  cursor: pointer;
+  border: 2px solid rgb(228, 37, 91);
+  padding: 2%;
+  border-radius: 10px;
+  margin: 1% 0%;
+}
+.background .gridLayers .layerWhats:hover {
+  transition: all 1s;
+  cursor: pointer;
+  border: 2px solid rgb(228, 37, 91);
+  padding: 2%;
+  border-radius: 10px;
+  margin: 1% 0%;
+}
+.background .gridLayers h1 {
+  font-size: 2vw;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+}
+.background .gridLayers p {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  opacity: 0.5;
+  font-style: italic;
+  font-size: 1.4vw;
+}
+.background .gridLayers img {
+  height: 30vw;
+  width: 40vw;
+  border: transparent;
+  border-radius: 10px;
+}
+.background .gridLayers .pogressNBA {
+  width: 50%;
+  height: 1vw;
+  margin-top: -1%;
+  background: linear-gradient(90deg, rgb(118, 196, 207) 0%, rgb(103, 96, 166) 100%);
+}
+.background .gridLayers .pogressWhats {
+  width: 50%;
+  height: 1vw;
+  margin-top: -1%;
+  background: linear-gradient(90deg, rgb(116, 199, 205) 0%, rgb(56, 179, 137) 100%);
+}
+
+/*# sourceMappingURL=Artigos.css.map */
