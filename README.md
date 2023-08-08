@@ -8,7 +8,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="mandatrends_testgustavo\src\assets\img\06_MANDA_TRENDS-Recuperado.png" alt="exemplo imagem">
+<img src="[mandatrends_testgustavo\src\assets\img\06_MANDA_TRENDS-Recuperado.png](https://github.com/GustavoRanieli/mandarinTest/assets/93204660/e14cccf0-4bc5-4648-8e1a-6214ec2607bc)" alt="exemplo imagem">
 
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
